@@ -13,7 +13,7 @@
 - Symfony 6.4
     
 ## Installation
-Je ne vais pas détailler sur l'installation, mais je dois vériifer mon environnement de travailler avant de commencer à coder.
+Je ne vais pas détailler sur l'installation, mais je dois vérifier mon environnement de travailler avant de commencer à coder.
 
 je vérifie la version de Composer installée sur mon système.
 ```bash
@@ -57,5 +57,7 @@ Une fois l'installation est terminée, j'initialise mon projet à GitHub.
 
 ![](/public/Images/Gitinit.JPG)
 
-Aller vérifier sur mon compte GitHub.
+Aller vérifier sur mon compte GitHub, (c'est commit de la modification de Readme.md).
+
+![](/public/Images/Modification%20sur%20Readme.md.JPG).
 
