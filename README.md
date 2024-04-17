@@ -3,7 +3,9 @@
     - Composer 
     - GitHub
     - Cli Symfony
-    - Visual Studio Code
+    - Editeur de code (Visual Studio Code)
+    - Navigateur, Firefox, Chrome, Edge
+    - Composer
     - Framework Bootstrap
     - Symfony 6.4
     
